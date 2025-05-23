@@ -1,1 +1,1 @@
-/home/user/data/sample1_0h.bam,/home/user/data/sample2_0h.bam,/home/user/data/sample3_0h.bam
+/Users/labbione/Desktop/eQTL/sample1_0h.bam,/Users/labbione/Desktop/eQTL/sample2_0h.bam,/Users/labbione/Desktop/eQTL/sample3_0h.bam
