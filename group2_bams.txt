@@ -1,0 +1,1 @@
+/Users/labbione/Desktop/eQTL/sample1_24h.bam,/Users/labbione/Desktop/eQTL/sample2_24h.bam,/Users/labbione/Desktop/eQTL/sample3_24h.bam
